@@ -33,7 +33,7 @@
             <nav class="navbar navbar-expand-lg navbr-light">
                 <div class="collapse navbar-collapse" id="navbar">
                     <a href="/" class="navbar-brand">
-                        <img src="/img/logo.png" alt="HDC Events" >
+                        <img src="/img/hdcevents_logo.svg" alt="HDC Events" >
                     </a>
                     <ul class="navbar-nav">
                         <li class="nav-item">

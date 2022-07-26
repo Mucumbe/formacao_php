@@ -8,9 +8,9 @@ use Illuminate\Http\Request;
 class EventController extends Controller
 {
     public function index(){
-        $events=Event::all();
         
-
+    $events=Event::all();
+        
     return view('welcome',[  'events'=>$events ]);
 
     }
