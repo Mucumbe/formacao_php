@@ -1,2 +1,11 @@
-<h1>Esta é a Pagina de contacto</h1>
-<a href="/">Voltar para pagina Iniacial</a>
+
+@extends('layouts.main')
+
+@section('title', 'HDC Events')
+
+@section('content')
+
+
+
+
+@endsection
