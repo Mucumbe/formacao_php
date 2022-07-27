@@ -151,3 +151,14 @@ footer {
 footer p {
   margin-bottom: 0;
 }
+
+.msg {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6c8;
+  width: 100%;
+  margin-bottom: 0;
+  text-align: center;
+  padding: 10px;
+
+}
