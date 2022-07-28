@@ -37,7 +37,7 @@
                     </a>
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a href="/" class="nav-link">Eventos</a>
+                            <a href="/dashboard" class="nav-link">Eventos</a>
                         </li>
                         <li class="nav-item">
                             <a href="/events/create" class="nav-link">Criar Eventos</a>
